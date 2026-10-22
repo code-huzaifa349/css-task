@@ -1,0 +1,43 @@
+body {
+  background-color: burlywood;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 0.85em;
+  color: #333333;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 720px;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  display: block;
+  margin: 0 auto 10px auto;
+  border-radius: 50%;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: normal;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #222222;
+  margin: 0 0 20px 0;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #7b8a99;
+}
+
+h2 {
+  font-size: 1em;
+  color: #cc6655;
+  margin: 18px 0 6px 0;
+  
+}
+
+p {
+  line-height: 1.5;
+  margin: 0 0 10px 0;
+}
