@@ -1,7 +1,7 @@
 body {
   background-color: burlywood;
   font-family: Verdana, Arial, sans-serif;
-  font-size: 0.85em;
+  font-size: 13.6px;
   color: #333333;
   margin: 0 auto;
   padding: 20px;
@@ -21,7 +21,7 @@ header img {
 h1 {
   font-family: Georgia, "Times New Roman", serif;
   font-weight: normal;
-  font-size: 1.8em;
+  font-size: 28.8px;
   text-transform: uppercase;
   text-align: center;
   color: #222222;
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1em;
+  font-size: 16px;
   color: #cc6655;
   margin: 18px 0 6px 0;
   
